@@ -1,0 +1,74 @@
+{
+  "hi-Lekha": [
+    {
+      "syllables": 5,
+      "actualDuration": 1.533,
+      "targetDuration": 2,
+      "wasComplete": true,
+      "timestamp": 1770428459819
+    },
+    {
+      "syllables": 15,
+      "actualDuration": 0.376,
+      "targetDuration": 3,
+      "wasComplete": true,
+      "timestamp": 1770428460661
+    },
+    {
+      "syllables": 4,
+      "actualDuration": 1.677,
+      "targetDuration": 3,
+      "wasComplete": true,
+      "timestamp": 1770428470964
+    },
+    {
+      "syllables": 3,
+      "actualDuration": 0.863,
+      "targetDuration": 1,
+      "wasComplete": true,
+      "timestamp": 1770428476966
+    },
+    {
+      "syllables": 14,
+      "actualDuration": 2.822,
+      "targetDuration": 3,
+      "wasComplete": true,
+      "timestamp": 1770428482907
+    },
+    {
+      "syllables": 2,
+      "actualDuration": 0.713,
+      "targetDuration": 1,
+      "wasComplete": true,
+      "timestamp": 1770428483798
+    },
+    {
+      "syllables": 2,
+      "actualDuration": 0.825,
+      "targetDuration": 2,
+      "wasComplete": true,
+      "timestamp": 1770428487909
+    },
+    {
+      "syllables": 1,
+      "actualDuration": 0.523,
+      "targetDuration": 1,
+      "wasComplete": true,
+      "timestamp": 1770428490607
+    },
+    {
+      "syllables": 2,
+      "actualDuration": 0.861,
+      "targetDuration": 1,
+      "wasComplete": true,
+      "timestamp": 1770428493946
+    },
+    {
+      "syllables": 9,
+      "actualDuration": 3.767,
+      "targetDuration": 4,
+      "wasComplete": true,
+      "timestamp": 1770428540051
+    }
+  ]
+}
